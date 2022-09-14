@@ -1,3 +1,10 @@
 [INFO] [2022-09-14 22:00:06,930] [dataCleaner] [__init__] --> [
     #####-->    Data cleaner logger for data preparation notebook    <--#####
 ]
+[INFO] [2022-09-14 22:27:14,389] [dataCleaner] [percent_missing] --> [The dataset contains 0.0 % missing values]
+[INFO] [2022-09-14 22:28:42,049] [dataCleaner] [drop_duplicates] --> [No duplicate rows were found.]
+[2022-09-14 22:34:34,581] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for data preparation notebook    <--#####
+]
+[2022-09-14 22:34:38,531] [dataCleaner] [percent_missing] [INFO] --> [The dataset contains 0.0 % missing values]
+[2022-09-14 22:34:38,875] [dataCleaner] [drop_duplicates] [INFO] --> [No duplicate rows were found.]

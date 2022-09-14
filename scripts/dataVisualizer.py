@@ -80,7 +80,7 @@ class dataVisualizer():
 
             # setting up formatter
             formatter = logging.Formatter(
-                "[%(levelname)s] [%(asctime)s] [%(name)s] [%(funcName)s] " +
+                "[%(asctime)s] [%(name)s] [%(funcName)s] [%(levelname)s] " +
                 "--> [%(message)s]")
 
             # setting up file handler and formatter
