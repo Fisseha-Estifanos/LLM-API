@@ -31,8 +31,8 @@ A repository to demonstrate some of the concepts behind large language models, t
 > Is to build and end to end pipeline that can use some if not any of the large language models free APIs such as Bloom, GPT-3 or co:here, in order to use their capabilities and 
 
     1- Extract the relationships and entities of an input job description.
-    2- Score whether or not specific input news is going to cause a problem in the real world based on a scoring value (feature).
-    3- Create an API that receives inputs and displays outputs for the above scoring and text extraction services. 
+    2- Score whether or not specific news is going to cause a riots in the real world based on a scoring value (feature).
+    3- API creation to receive inputs and display outputs for the above services. 
     4- Make the whole project into an installable product available for commercial use.
 
 
