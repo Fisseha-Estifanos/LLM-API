@@ -1,10 +1,9 @@
 # LLM-API
-A repository to demonstrate some of the concepts behind large language models, transformer (foundation) models, in-context learning, and prompt engineering.
+A repository to demonstrate some of the concepts behind large language models, transformer (foundation) models, in-context learning, and prompt engineering using open source large language models like Bloom and co:here.
 
-# Rossmann pharmaceuticals
-## Time series data set sales prediction
+## Large language models and prompt engineering
 
-**Table of content**
+**Table of contents**
 
 - [Overview](#overview)
 - [Objective](#objective)
