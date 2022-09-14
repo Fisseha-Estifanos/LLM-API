@@ -1,0 +1,20 @@
+name: Structure & unit tests
+on: 
+  push:
+    branches:
+    - main
+    #- production
+  pull_request:
+jobs:
+  run:
+    runs-on: ubuntu-latest 
+    # container: docker://dvcorg/cml-py3:latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: setup_scripts & install dependency
+      run: | 
+        pip install -r requirements.txt
+        python scripts/script.py
+    - name: run-tests
+      run: |
+        python -m unittest tests.test_script
