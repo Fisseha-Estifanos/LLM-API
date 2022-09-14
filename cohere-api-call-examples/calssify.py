@@ -1,16 +1,14 @@
 """
 An experiment script to understand the basics of working with the co:here API
+Using the classify functionality
 """
 
 import sys
 import cohere
-from cohere.classify import Example
-sys.path.append('.')
-sys.path.append('..')
 sys.path.insert(1, 'scripts/')
+from cohere.classify import Example
 
 from defaults import cohere_api_key
-
 
 api_key = cohere_api_key
 co = cohere.Client(api_key)
