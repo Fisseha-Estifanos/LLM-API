@@ -1,2 +1,7 @@
 [core]
     autostage = true
+    remote = local-store
+['remote "remote-store"']
+    url = gdrive://1tqW4fbN4G10FXhketTvLclHFM12_rsDo?usp=sharing
+['remote "local-store"']
+    url = /home/f0x-tr0t/Documents/dvc-store/
