@@ -2,6 +2,7 @@
 A repository to demonstrate some of the concepts behind large language models, transformer (foundation) models, in-context learning, and prompt engineering using open source large language models like Bloom and co:here.
 
 ## Large language models and prompt engineering
+![](plots/language-model-input-prompt.png)
 
 **Table of contents**
 
