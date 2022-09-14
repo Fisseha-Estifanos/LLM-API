@@ -65,6 +65,7 @@ The news score data can be found here at : [google drive](https://docs.google.co
 
 ### Data set II - Job description text extraction
 The development and training data set could be found in here at: [GitHub](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt)
+
 The testing and final reporting data set could be found in here at: [GitHub](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt)
 
 ## Features
