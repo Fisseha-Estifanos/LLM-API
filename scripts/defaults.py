@@ -26,3 +26,6 @@ test_path = data_path + job_test_data_file
 
 # the path to the plots folder
 plot_path = 'plots/'
+
+# cohere API KEY
+cohere_api_key = 'KLQrS00w0R2o1ECKFuCX9kAUSkZCEX3KZdtFJ2l7'
