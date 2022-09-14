@@ -11,11 +11,11 @@ A repository to demonstrate some of the concepts behind large language models, t
 - [Requirement](#requirement)
 - [Install](#install)
 - [Data](#data)
-    -[Data set I](#data-set-i---news-score)
-    -[Data set II](#data-set-ii---job-description-text-extraction)
+    -[Data set I](#data-set-i-news-score)
+    -[Data set II](#data-set-ii-job-description-text-extraction)
 - [Features](#features)
-    -[Data set I](#data-set-i-features-news-score)
-    -[Data set II](#data-set-ii-features-job-description-text-extraction)
+    -[Feature I](#features-i-news-score)
+    -[Feature II](#features-ii-job-description-text-extraction)
 - [How to use the API](#examples)
 - [Pipelines](#pipelines)
 - [Notebooks](#notebooks)
@@ -69,12 +69,12 @@ pip install -r requirements.txt
 
 
 ## Features
-### Data set I features: News score
+### Features I: News score
 > - Feature 1 - what it is
 > - Feature 1 - what it is
 > - Feature 3 - what it is
 
-### Data set II features: Job description text extraction
+### Features II: Job description text extraction
 > - Feature 1 - what it is
 > - Feature 1 - what it is
 > - Feature 3 - what it is
