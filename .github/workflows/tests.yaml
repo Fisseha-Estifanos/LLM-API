@@ -3,7 +3,7 @@ on:
   push:
     branches:
     - main
-    - production
+    #- production
   pull_request:
 jobs:
   run:
