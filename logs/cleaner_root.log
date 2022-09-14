@@ -8,3 +8,31 @@
 ]
 [2022-09-14 22:34:38,531] [dataCleaner] [percent_missing] [INFO] --> [The dataset contains 0.0 % missing values]
 [2022-09-14 22:34:38,875] [dataCleaner] [drop_duplicates] [INFO] --> [No duplicate rows were found.]
+[2022-09-15 00:28:07,883] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for data preparation notebook    <--#####
+]
+[2022-09-15 00:28:48,333] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring using co:here API notebook    <--#####
+]
+[2022-09-15 00:28:48,333] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring using co:here API notebook    <--#####
+]
+[2022-09-15 00:29:42,691] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring EDA notebook    <--#####
+]
+[2022-09-15 00:29:45,173] [dataCleaner] [percent_missing] [INFO] --> [The dataset contains 0.0 % missing values]
+[2022-09-15 00:29:45,463] [dataCleaner] [drop_duplicates] [INFO] --> [No duplicate rows were found.]
+[2022-09-15 00:30:57,692] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring EDA notebook    <--#####
+]
+[2022-09-15 00:30:59,986] [dataCleaner] [percent_missing] [INFO] --> [The dataset contains 0.0 % missing values]
+[2022-09-15 00:31:00,419] [dataCleaner] [drop_duplicates] [INFO] --> [No duplicate rows were found.]
+[2022-09-15 00:33:05,109] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring using co:here API notebook    <--#####
+]
+[2022-09-15 00:33:05,109] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring using co:here API notebook    <--#####
+]
+[2022-09-15 00:33:05,109] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring using co:here API notebook    <--#####
+]
