@@ -6,14 +6,13 @@ Using the embed functionality
 import sys
 import cohere
 sys.path.insert(1, 'scripts/')
-from defaults import cohere_api_key
+from keys import cohere_api_key
 
-api_key = cohere_api_key
-co = cohere.Client(api_key)
+# use your own api key here
+co = cohere.Client(cohere_api_key)
 
 response = co.embed(
   model='large',
-
   texts=["When are you open?", "When do you close?", "What are the hours?",
          "Are you open on weekends?", "Are you available on holidays?",
          "How much is a burger?", "What\'s the price of a meal?",
