@@ -11,11 +11,7 @@ A repository to demonstrate some of the concepts behind large language models, t
 - [Requirement](#requirement)
 - [Install](#install)
 - [Data](#data)
-    -[Data set I](#data-set-i-news-score)
-    -[Data set II](#data-set-ii-job-description-text-extraction)
 - [Features](#features)
-    -[Feature I](#features-i-news-score)
-    -[Feature II](#features-ii-job-description-text-extraction)
 - [How to use the API](#examples)
 - [Pipelines](#pipelines)
 - [Notebooks](#notebooks)
@@ -59,22 +55,22 @@ pip install -r requirements.txt
 
 
 ## Data
-### Data set I: News score
+### Dataset I: News and scores
 > The news score data can be found here at : [google drive](https://docs.google.com/spreadsheets/d/19N_K6SnIm0FylD2TBs-5y3WeSgdveb3J/edit?usp=sharing&ouid=108085860825615283789&rtpof=true&sd=true)
 
-### Data set II: Job description text extraction
+### Dataset II: Job descriptions
 > The development and training data set could be found in here at: [GitHub](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt)
 > 
 > The testing and final reporting data set could be found in here at: [GitHub](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt)
 
 
 ## Features
-### Features I: News score
+### Features I: News and scores
 > - Feature 1 - what it is
 > - Feature 1 - what it is
 > - Feature 3 - what it is
 
-### Features II: Job description text extraction
+### Features II: Job descriptions
 > - Feature 1 - what it is
 > - Feature 1 - what it is
 > - Feature 3 - what it is
