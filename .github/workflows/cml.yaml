@@ -25,7 +25,7 @@ jobs:
         run: |
           echo "# Data preparation and processing" >> report.md
           cml publish plots/language-model-input-prompt.png --md >> report.md
-          echo "* News score data set overview" >> report.md
+          echo "## News score data set overview" >> report.md
           cml publish plots/news_data.png --md >> report.md
 
           cml send-comment report.md
