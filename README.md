@@ -87,8 +87,8 @@ The testing and final reporting data set could be found in here at: [GitHub](htt
 
 ## Pipelines
 > Several numbers of pipelines are going to be used in this project. 
-
-The main pipeline that is going to be the main end to end pipeline is going to be formed using DVC.  
+>
+> The main pipeline that is going to be the main end to end pipeline is going to be formed using DVC.  
 
 ## Notebooks
 
