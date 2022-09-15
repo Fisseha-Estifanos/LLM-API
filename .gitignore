@@ -130,3 +130,6 @@ dmypy.json
 
 # API key related ignres
 scripts/keys.py
+
+# development environment related ignores
+.vscode/
