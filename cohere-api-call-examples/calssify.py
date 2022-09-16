@@ -3,13 +3,17 @@ An experiment script to understand the basics of working with the co:here API
 Using the classify functionality
 """
 
+import os
 import sys
 import cohere
 sys.path.insert(1, 'scripts/')
-from keys import cohere_api_key
+from dotenv import load_dotenv
 from cohere.classify import Example
 
+# load your environment
+load_dotenv()
 # use your own api key here
+cohere_api_key = os.getenv('cohere_api_key')
 co = cohere.Client(cohere_api_key)
 
 response = co.classify(
