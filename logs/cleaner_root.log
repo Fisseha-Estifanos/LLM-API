@@ -47,3 +47,6 @@
 ]
 [2022-09-16 13:55:41,382] [dataCleaner] [percent_missing] [INFO] --> [The dataset contains 0.0 % missing values]
 [2022-09-16 13:55:41,618] [dataCleaner] [drop_duplicates] [INFO] --> [No duplicate rows were found.]
+[2022-09-16 14:17:52,800] [dataCleaner] [__init__] [INFO] --> [
+    #####-->    Data cleaner logger for news scoring using co:here API notebook    <--#####
+]
