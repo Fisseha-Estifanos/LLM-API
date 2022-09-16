@@ -31,3 +31,9 @@
 [2022-09-15 13:16:48,684] [dataVisualizer] [__init__] [INFO] --> [
     #####-->    Data visualizer logger for news scoring using co:here API notebook    <--#####
 ]
+[2022-09-16 13:51:14,665] [dataVisualizer] [__init__] [INFO] --> [
+    #####-->    Data visualizer logger for news scoring using co:here API notebook    <--#####
+]
+[2022-09-16 13:55:38,689] [dataVisualizer] [__init__] [INFO] --> [
+    #####-->    Data visualizer logger for news scoring EDA notebook    <--#####
+]
