@@ -19,6 +19,7 @@ co = cohere.Client(cohere_api_key)
 response = co.classify(
   model='medium',
   inputs=["Am I still able to return my order?", "When can I expect my package?"],
+
   examples=[Example("Do you offer same day shipping?", "Shipping and handling policy"),
             Example("Can you ship to Italy?", "Shipping and handling policy"),
             Example("How long does shipping take?", "Shipping and handling policy"),
