@@ -555,8 +555,7 @@ class dataCleaner():
             print(e)
         finally:
             return df
-        
- 
+
     def convert_to_string(self, df: pd.DataFrame, columns: list) -> pd.DataFrame :
         """
         A function to convert features to string data type
